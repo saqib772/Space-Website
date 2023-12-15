@@ -113,7 +113,11 @@
 
   <!-- ======== NAVBAR ======== -->
   <nav class="navbar">
-    <div class="logo"><a  href="./index.php"><img width="10px" height="50px" src="./assets/images/space.png" /></a></div>
+    <div class="logo">
+      <a  href="./index.php">
+        <img  src="./assets/images/space.png" />
+      </a>
+    </div>
     <label for="btn" class="icon">
       <span class="fa fa-bars"></span>
     </label>

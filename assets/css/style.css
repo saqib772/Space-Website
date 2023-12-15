@@ -40,8 +40,11 @@
   padding-top: 12px;
 }
 .navbar .logo img {
-  width: 180px;
+  width: 84px;
+  height:93px;
+  border-radius:9px;
 }
+
 .navbar ul {
   float: right;
   margin-right: 40px;
