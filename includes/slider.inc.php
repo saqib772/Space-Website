@@ -9,7 +9,7 @@
     $sliderQuery = "SELECT category.category_name, category.category_color, article.*
                     FROM category, article
                     WHERE article.category_id = category.category_id
-                    AND article.article_trend = 1
+                    AND article.article_trend = 0
                     AND article.article_active = 1
                     ORDER BY RAND() 
                     LIMIT {$no_of_slides}";
