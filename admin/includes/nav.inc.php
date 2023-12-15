@@ -60,7 +60,7 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>NewsGrid Admin Panel | <?php echo $page_title ?></title>
+  <title>Space News Admin Panel | <?php echo $page_title ?></title>
 
   <link href="../assets/css/partials/4-component.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
