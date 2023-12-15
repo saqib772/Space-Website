@@ -3,7 +3,7 @@
   <?php
 
     // No of slides in the carousel slider
-    $no_of_slides = "4";
+    $no_of_slides = "6";
 
     // Slider Query to select 4 trending articles randomly
     $sliderQuery = "SELECT category.category_name, category.category_color, article.*
