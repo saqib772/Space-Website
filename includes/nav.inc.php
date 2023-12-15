@@ -115,7 +115,10 @@
   <nav class="navbar">
     <div class="logo">
       <a  href="./index.php">
-        <img  src="./assets/images/space.png" />
+        <img style="
+    width: 46px;
+    border-radius: 9px;
+"  src="assets\images\space.png" />
       </a>
     </div>
     <label for="btn" class="icon">

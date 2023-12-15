@@ -97,4 +97,4 @@
   </div>
 </header>
 <!-- SCRIPT FOR IMAGE SLIDER -->
-<script src="../assets/js/image-slider.js"></script>
+<script src="assets\js\image-slider.js"></script>

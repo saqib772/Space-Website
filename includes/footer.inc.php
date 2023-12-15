@@ -1,7 +1,7 @@
 <!--? ======== FOOTER ======== -->
 <footer class="footer">
   <div class="footer-left">
-    <a href="./index.php"><img src="./assets/images/logo_light.png" /></a>
+    <a href="./index.php"><img style="width:61px;border-radius: 14px;height: 60px;" src="assets\images\space.png" /></a>
     <p>
     Blast off to another dimension of news! Explore the universe with Space-News , your one-stop shop for the latest in space exploration, astronomy, and beyond.
 
@@ -80,10 +80,10 @@
 <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
 
 <!-- SCRIPT FOR BACK TO TOP BUTTON -->
-<script src="../assets/js/back-to-top.js"></script>
+<script src="assets\js\back-to-top.js"></script>
 
 <!-- SCRIPT FOR NAVBAR COLLAPSE -->
-<script src="../assets/js/navbar-collapse.js"></script>
+<script src="assets\js\navbar-collapse.js"></script>
 </body>
 
 </html>
